@@ -73,6 +73,11 @@ li{
     cursor: pointer;
 }
 
+
+.botao:hover{   
+    opacity: 0.8;
+}
+
 .troca-cor{
     width: 40px;
     height: 40px;
